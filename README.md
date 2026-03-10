@@ -1,6 +1,6 @@
 <div align="center">
   <h3>3rd-year Undergraduate @ <a href="https://www.csu.edu.cn/">Central South University</a></h3>
-  <h3>Quant dev in the making</h3>
+  <h3>I build trading systems & tools for investors.</h3>
 </div>
 
 
