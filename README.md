@@ -1,4 +1,4 @@
-3rd-year CS undergrad at [Central South University](https://www.csu.edu.cn/)
+3rd-year CS undergrad at [Central South University](https://www.csu.edu.cn/).
 
 I build trading systems & tools for investors.
 
