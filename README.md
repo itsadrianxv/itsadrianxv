@@ -1,28 +1,21 @@
-<div align="center">
-  <h3>
-    I'm a 3rd-year CS undergrad @
-    <a href="https://www.csu.edu.cn/">Central South University</a>.
-  </h3>
-  <h3>I build trading systems & tools for investors.</h3>
+## itsadrianxv / README.md
 
-  <p>
-    <a href="https://github.com/itsadrianxv/OptionForge">OptionForge</a> —
-    An options trading strategy scaffold for vibe coding
-  </p>
-  <p>
-    <a href="https://github.com/itsadrianxv/TravelShare">TravelShare</a> —
-    Database systems course project at CSU
-  </p>
-  <p>
-    <a href="https://github.com/itsadrianxv/pass_ctp_test">pass-ctp-test</a> —
-    A tool for passing futures firms' CTP penetration tests quickly
-  </p>
-  <p>
-    <a href="https://github.com/itsadrianxv/stock-screening-boost">stock-screening-boost</a> —
-    A stock screening and market timing toolkit (in progress)
-  </p>
-  <p>
-    <a href="https://github.com/itsadrianxv/workflow-viz">workflow-viz</a> —
-    A Claude Code skill for visualizing complex code workflows
-  </p>
-</div>
+3rd-year CS undergrad at [Central South University](https://www.csu.edu.cn/).
+
+Building trading systems, quant tools, and developer utilities.
+
+## Current Projects
+
+### Trading & Quant
+
+- [OptionForge](https://github.com/itsadrianxv/OptionForge) — 面向 vibe coding 的期权交易策略脚手架
+- [stock-screening-boost](https://github.com/itsadrianxv/stock-screening-boost) — 选股与择时工具（搭建中）
+- [pass-ctp-test](https://github.com/itsadrianxv/pass_ctp_test) — 速通期货公司 CTP 穿透测试的工具
+
+### Coursework & Practice
+
+- [TravelShare](https://github.com/itsadrianxv/TravelShare) — CSU 数据库系统实践课设
+
+### Dev Tools
+
+- [workflow-viz](https://github.com/itsadrianxv/workflow-viz) — 可视化复杂代码流程的 Claude Code Skill
