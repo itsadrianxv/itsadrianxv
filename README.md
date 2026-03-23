@@ -21,3 +21,4 @@ I build trading systems & tools for investors.
 ### 杂 | everything else
 
 - [workflow-viz](https://github.com/itsadrianxv/workflow-viz) — 可视化复杂代码流程的 Claude Code Skill
+- [xv-IELTS](https://github.com/itsadrianxv/xv-IELTS) — 雅思学习
