@@ -1,6 +1,6 @@
 3rd-year CS undergrad at [Central South University](https://www.csu.edu.cn/).
 
-I build trading systems & tools for investors. Check out [my site](http://www.adrianxv.cn/).
+Interested in Quant Finance. Learning to build trading systems & tools for traders. Check out [my site if you would](http://www.adrianxv.cn/).
 
 ## 项目 | current projects
 
