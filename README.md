@@ -1,6 +1,7 @@
-3rd-year CS undergrad at [CSU](https://www.csu.edu.cn/).
+3rd-year CS undergrad @ [CSU](https://www.csu.edu.cn/).
 
-Interested in Quant Finance. Learning to build trading systems & tools for traders. Check out [my site if you would](http://www.adrianxv.cn/).
+Intern. Interested in Quant Finance. Building trading systems & tools. Check out [my site, if you care](http://www.adrianxv.cn/).
+
 
 ## Current Projects
 
