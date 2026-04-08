@@ -13,7 +13,7 @@ Intern. Interested in Quant Finance (especially CTA). Building trading systems &
 
 ### Investment Tools
 
-- [stock-screening-boost](https://github.com/itsadrianxv/stock-screening-boost) — 选股与择时工具（搭建中）
+- [AlphaFlow](https://github.com/itsadrianxv/AlphaFlow) — 选股与择时工具（搭建中）
 
 ### Practice Projects
 
