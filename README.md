@@ -1,4 +1,4 @@
-3rd-year CS undergrad @ [CSU](https://www.csu.edu.cn/).
+3rd-year [CS](https://cse.csu.edu.cn/) undergrad @ [CSU](https://www.csu.edu.cn/).
 
 Intern. Interested in Quant Finance (especially CTA). Building trading systems & tools. Check out [my site, if you care](http://www.adrianxv.cn/).
 
