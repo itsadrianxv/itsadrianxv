@@ -22,6 +22,6 @@ Intern. Interested in Quant Finance (especially CTA). Building trading systems &
 
 ### Everything Else
 
-- [workflow-viz](https://github.com/itsadrianxv/workflow-viz) — Claude Code Skill to visualize complex workflows
+- [workflow-viz](https://github.com/itsadrianxv/workflow-viz) — Skill to visualize code to find vibe-coded slops
 - [xv-IELTS](https://github.com/itsadrianxv/xv-IELTS) — My roadmap towards IELTS
 - [founder-radar-lite](https://github.com/itsadrianxv/founder-radar-lite) — daily info digest from AI builders with OpenClaw and Feishu delivery
