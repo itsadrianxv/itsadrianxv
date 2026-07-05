@@ -1,6 +1,6 @@
 3rd-year [CS](https://cse.csu.edu.cn/) undergrad @ [CSU](https://www.csu.edu.cn/).
 
-Interested in Quantitative Trading. Building trading systems & tools. Check out [my site, if you care](http://www.adrianxv.cn/).
+Interested in Quantitative Trading. Tinkering with HFT stuff. Check out [my site, if you care](http://www.adrianxv.cn/).
 
 ## Current Projects
 
