@@ -1,4 +1,4 @@
-3rd-year [CS](https://cse.csu.edu.cn/) undergrad @ [CSU](https://www.csu.edu.cn/).
+3rd-year [CS](https://cse.csu.edu.cn/) undergrad @ [CSU](https://www.csu.edu.cn/). Based in Shenzhen, China / Shanghai, China.
 
 Interested in Quantitative Trading. Tinkering with HFT stuff. Check out [my site, if you care](http://www.adrianxv.cn/).
 
