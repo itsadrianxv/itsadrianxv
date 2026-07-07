@@ -6,10 +6,7 @@ Interested in Quantitative Trading. Tinkering with HFT stuff. Check out [my site
 
 ### Algo Trading
 
-- [OptionForge](https://github.com/itsadrianxv/OptionForge) — vibe code your own options trading strategy!
 - [pass-ctp-test](https://github.com/itsadrianxv/pass_ctp_test) — 速通期货公司 CTP 穿透测试的工具
-- **coding arbitrage & volatility options strategies that work**
-- **risk control methods (saving my day)**
 
 ### Investment Tools
 
@@ -22,6 +19,6 @@ Interested in Quantitative Trading. Tinkering with HFT stuff. Check out [my site
 
 ### Everything Else
 
-- [workflow-viz](https://github.com/itsadrianxv/workflow-viz) — Skill to visualize code to find vibe-coded slops
-- [xv-IELTS](https://github.com/itsadrianxv/xv-IELTS) — My roadmap towards IELTS
 - [founder-radar-lite](https://github.com/itsadrianxv/founder-radar-lite) — daily info digest from AI builders with OpenClaw and Feishu delivery
+- [quant-strategy-builder-skill](https://github.com/itsadrianxv/quant-strategy-builder-skill) - quant trading strategy builder skill
+- [开拓者量化平台文档及skills](https://github.com/itsadrianxv/tradeblazer_skills) - 开拓者量化平台文档及skills
