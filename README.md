@@ -1,4 +1,4 @@
-[CS](https://cse.csu.edu.cn/) undergrad @ [CSU](https://www.csu.edu.cn/), due 2027. Based in Shenzhen.
+[CSU](https://www.csu.edu.cn/)’27. Based in Shenzhen.
 
 Interested in Quantitative Trading. Tinkering with HFT stuff. Check out [my site, if you care](http://www.adrianxv.cn/).
 
