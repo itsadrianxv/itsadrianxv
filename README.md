@@ -1,16 +1,17 @@
-[CSU](https://www.csu.edu.cn/)’27. Based in Shenzhen.
-
-Interested in Quantitative Trading. Tinkering with HFT stuff. Check out [my site, if you care](http://www.adrianxv.cn/).
+[CSU](https://www.csu.edu.cn/)’27. Quant dev. Based in Shenzhen. Check out [my site, if you care](http://www.adrianxv.cn/).
 
 ## Current Projects
 
 ### Algo Trading
 
 - [pass-ctp-test](https://github.com/itsadrianxv/pass_ctp_test) — 速通期货公司 CTP 穿透测试的工具
+- [quant-strategy-builder-skill](https://github.com/itsadrianxv/quant-strategy-builder-skill) - quant trading strategy builder skill
+- [开拓者量化平台文档及skills](https://github.com/itsadrianxv/tradeblazer_skills) - 开拓者量化平台文档及skills
+- [OptionsForge](https://github.com/itsadrianxv/OptionsForge) - vibe coding template for options strategies (DEPRECATED)
 
 ### Investment Tools
 
-- [AlphaFlow](https://github.com/itsadrianxv/AlphaFlow) — 智能股票投研工具——覆盖宏观、行业、个股、择时
+- [AlphaFlow](https://github.com/itsadrianxv/AlphaFlow) — agentic investment research workflows
 
 ### Practice Projects
 
@@ -20,5 +21,4 @@ Interested in Quantitative Trading. Tinkering with HFT stuff. Check out [my site
 ### Everything Else
 
 - [founder-radar-lite](https://github.com/itsadrianxv/founder-radar-lite) — daily info digest from AI builders with OpenClaw and Feishu delivery
-- [quant-strategy-builder-skill](https://github.com/itsadrianxv/quant-strategy-builder-skill) - quant trading strategy builder skill
-- [开拓者量化平台文档及skills](https://github.com/itsadrianxv/tradeblazer_skills) - 开拓者量化平台文档及skills
+
