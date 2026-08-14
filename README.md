@@ -21,4 +21,5 @@
 ### Everything Else
 
 - [founder-radar-lite](https://github.com/itsadrianxv/founder-radar-lite) — daily info digest from AI builders with OpenClaw and Feishu delivery
+- [UniShot](https://github.com/itsadrianxv/UniShot) - diy 投递本硕博留学项目工作区
 
