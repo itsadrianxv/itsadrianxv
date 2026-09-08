@@ -1,10 +1,11 @@
-hi, I'm Adrian. [CSU](https://www.csu.edu.cn/)'27, based in Shenzhen, China. Check out [my site](https://www.adrianxv.cn/) or grab [my resume](https://www.adrianxv.cn/resume.pdf).
+hi, i'm adrian. [CSU](https://www.csu.edu.cn/)'27, based in Shenzhen, China. Check out [my site](https://www.adrianxv.cn/) or grab [my resume](https://www.adrianxv.cn/resume.pdf).
 
 I build systems that touch real money. I learned to program alongside LLMs, so building with agents is native to me. I am learning to go lower: Modern C++, Operating Systems, Networking, Concurrency, CompArch...
 ## now
 
 - reading *A Tour of C++* & *C++ Concurrency in Action*
 - grinding through *Building-Low-Latency-Applications-With-C++-Develop-a-Complete-Low-Latency-Trading-Ecosystem-From-Scratch-Using-Modern-C++*
+- building AI-native workspaces. digitizing my life. work in progress.
 
 ## things I've built
 
@@ -19,6 +20,7 @@ I build systems that touch real money. I learned to program alongside LLMs, so b
 
 - [TravelShare](https://github.com/itsadrianxv/TravelShare): a travel sharing app, database course
 - [CrawlFlow](https://github.com/itsadrianxv/CrawlFlow): a crawler, networks course
+- [vistraffic](https://github.com/vistraffic/vis): a visualization project, dataviz course
 
 ### everything else
 
