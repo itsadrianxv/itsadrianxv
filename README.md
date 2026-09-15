@@ -4,7 +4,7 @@ I build systems that touch real money. I learned to program alongside LLMs, so b
 
 ## now
 
-- reading *A Tour of C++*, *C++ Concurrency in Action* and books about Trading Systems & HFT stuff
+- reading *A Tour of C++*, *C++ Concurrency in Action* and books about Trading Systems & HFT stuff. Check out [my notes & blog posts](https://www.adrianxv.cn/blog/?tag=%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F).
 - building AI-native workspaces. digitizing my life. work in progress.
 
 ## things I've built
