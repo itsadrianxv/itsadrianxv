@@ -15,7 +15,7 @@ I build systems that touch real money. I learned to program alongside LLMs, so b
 - [tradeblazer_skills](https://github.com/itsadrianxv/tradeblazer_skills): docs and agent skills for TradeBlazer, the Chinese quant platform whose docs deserve better
 - [quant-strategy-builder-skill](https://github.com/itsadrianxv/quant-strategy-builder-skill): an agent skill for building quant trading strategies
 - [AlphaFlow](https://github.com/itsadrianxv/AlphaFlow): agentic investment research workflows. Built fast with agents, WIP still
-- [AdrTrader](https://github.com/itsadrianxv/AdrTrader): performant trading system connected to SimNow, written in C++, WIP
+- [jev-quant](https://github.com/itsadrianxv/jev-quant): C++ trading system leveraging TypeSafe Jev.
 
 ### coursework that survived
 
