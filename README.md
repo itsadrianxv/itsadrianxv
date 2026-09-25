@@ -14,8 +14,8 @@ I build systems that touch real money. I learned to program alongside LLMs, so b
 - [pass_ctp_test](https://github.com/itsadrianxv/pass_ctp_test): speedruns the CTP see-through test every Chinese futures broker puts between you and their API
 - [tradeblazer_skills](https://github.com/itsadrianxv/tradeblazer_skills): docs and agent skills for TradeBlazer, the Chinese quant platform whose docs deserve better
 - [quant-strategy-builder-skill](https://github.com/itsadrianxv/quant-strategy-builder-skill): an agent skill for building quant trading strategies
-- [AlphaFlow](https://github.com/itsadrianxv/AlphaFlow): agentic investment research workflows. Built fast with agents, WIP still
 - [jev-quant](https://github.com/itsadrianxv/jev-quant): C++ trading system leveraging TypeSafe Jev.
+- [simex](https://github.com/itsadrianxv/simex): a SHFE style C++ simulated exchange.
 
 ### coursework that survived
 
