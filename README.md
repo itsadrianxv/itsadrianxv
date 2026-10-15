@@ -13,12 +13,13 @@ I'm a B.Eng. in CS @ [CSU](https://www.csu.edu.cn/) '27 & Incoming MSc @ [HKUST]
 
 ### trading and quant
 
+- [jev-quant](https://github.com/itsadrianxv/jev-quant): C++20 High Frequency Trading System using TypeSafe Jev to make decisions.
+- [simex](https://github.com/itsadrianxv/simex): C++20 SIMulated EXchange.
 - [pass_ctp_test](https://github.com/itsadrianxv/pass_ctp_test): speedruns the CTP see-through test every Chinese futures broker puts between you and their API
 - [tradeblazer_skills](https://github.com/itsadrianxv/tradeblazer_skills): docs and agent skills for TradeBlazer, the Chinese quant platform whose docs deserve better
 - [quant-strategy-builder-skill](https://github.com/itsadrianxv/quant-strategy-builder-skill): an agent skill for building quant trading strategies
-- [jev-quant](https://github.com/itsadrianxv/jev-quant): C++ trading system leveraging TypeSafe Jev.
-- [simex](https://github.com/itsadrianxv/simex): a SHFE style C++ simulated exchange.
 
+  
 ### coursework that survived
 
 - [TravelShare](https://github.com/itsadrianxv/TravelShare): a travel sharing app, database course
