@@ -1,13 +1,11 @@
 Hi, I'm Adrian, a C++ Quantitative Developer. Check out [my site](https://www.adrianxv.cn/) or grab [my resume](https://www.adrianxv.cn/resume.pdf).
 
-I'm a B.Eng. in CS @ [CSU](https://www.csu.edu.cn/) '27 & Incoming MSc @ [HKUST](https://hkust.edu.hk/) '28. I'm based in Shenzhen, China. 
+I'm a B.Eng. in CS @ [CSU](https://www.csu.edu.cn/) '27 & Incoming MSc @ [HKUST](https://hkust.edu.hk/) '28.
 
 
 ## now
 
-- Honing my abilities in modern C++, grinding Leetcode.
-- Learning about performance benchmarking & optimization for low latency applications.
-- Open to Quantitative Developer Internship roles!
+- Open to quantitative developer internship in summer 2027
 
 ## things I've built
 
