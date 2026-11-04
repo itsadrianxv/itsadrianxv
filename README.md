@@ -1,4 +1,4 @@
-Hi, I'm Adrian, a C++ Quantitative Developer. Check out [my site](https://www.adrianxv.cn/) or grab [my resume](https://www.adrianxv.cn/resume.pdf).
+Hi, I'm Adrian, a Quantitative Developer, currently based in Hangzhou, China. Check out [my site](https://www.adrianxv.cn/) or grab [my resume](https://www.adrianxv.cn/resume.pdf).
 
 I'm a B.Eng. in CS @ [CSU](https://www.csu.edu.cn/) '27 & Incoming MSc @ [HKUST](https://hkust.edu.hk/) '28.
 
