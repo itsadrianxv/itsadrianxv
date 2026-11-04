@@ -1,5 +1,4 @@
-Hi, I'm Adrian, a Quantitative Developer, currently based in Hangzhou, China. Check out [my site](https://www.adrianxv.cn/) or grab [my resume](https://www.adrianxv.cn/resume.pdf).
-
+Hi, I'm Adrian, a Quantitative Developer, currently based in Hangzhou, China. Check out [my site](https://www.adrianxv.cn/).
 I'm a B.Eng. in CS @ [CSU](https://www.csu.edu.cn/) '27 & Incoming MSc @ [HKUST](https://hkust.edu.hk/) '28.
 
 
@@ -27,11 +26,5 @@ I'm a B.Eng. in CS @ [CSU](https://www.csu.edu.cn/) '27 & Incoming MSc @ [HKUST]
 ### everything else
 
 - [founder-radar-lite](https://github.com/itsadrianxv/founder-radar-lite): a daily digest of what AI builders ship, fetched by OpenClaw, delivered to my Feishu
-
-## work
-
-Two internships so far. One doing sell-side research on AI compute and storage. One at a private fund, working on trading systems & options strategies.
-
-The details live in my [resume](https://www.adrianxv.cn/resume.pdf).
 
 Contact: adrian@adrianxv.cn
