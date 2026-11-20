@@ -2,11 +2,6 @@ Hi, I'm Adrian, a Quantitative Developer, currently based in Hangzhou, China. Ch
 
 I'm a B.Eng. in CS @ [CSU](https://www.csu.edu.cn/) '27 & Incoming MSc @ [HKUST](https://hkust.edu.hk/) '28.
 
-
-## now
-
-- Open to quantitative developer internship in summer 2027
-
 ## things I've built
 
 ### trading and quant
